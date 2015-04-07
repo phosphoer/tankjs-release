@@ -6,7 +6,7 @@ A lightweight Javascript engine framework focused on the following ideas:
 - Small
 - Made for programmers
 
-To get started, pull the repository and take a look at the `samples/` directory, or read the [docs](https://github.com/phosphoer/TankJS/wiki). More documentation will be written as the framework matures.
+To get started, clone the repository and take a look at the [samples](https://github.com/phosphoer/tankjs/tree/master/samples), or read the [docs](https://github.com/phosphoer/TankJS/wiki). More documentation will be written as the framework matures.
 
 # Features
 
